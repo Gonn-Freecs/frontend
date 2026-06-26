@@ -1,4 +1,4 @@
-O indel.html é a entrada principal para o site é ele que contem o código HTML que estrutura a página. 
+O index.html é a entrada principal para o site é ele que contem o código HTML que estrutura a página. 
 
 A pasta CSS serve para guardar o style.css esse que guarda os estilos visuais e regras de formatação do site.
 
