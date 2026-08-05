@@ -1,1 +1,0 @@
-Primeiro eu revisaria se a imagem fosse referênciada com um link, se sim, consertaria esse link. Se caso fosse um problema de tamanho, redimensionaria a imagem para uma imagem maior ou se caso ela não aparecesse então colocaria um alt para descrever a imagem.
